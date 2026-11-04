@@ -54,3 +54,14 @@ To transform public data into meaningful visual insights that support awareness,
 **Project:** SHEWISE  
 **Category:** Data Analytics & Business Intelligence  
 **Developed using:** Microsoft Power BI
+
+## Dashboard Preview
+
+### Page 1 – National Overview
+![National Overview](Page-1-National-Overview.png)
+
+### Page 2 – Cybercrime Analysis
+![Cybercrime Analysis](Page-2-Cybercrime-Analysis.png)
+
+### Page 3 – One Stop Centre Performance
+![One Stop Centre Performance](Page-3-OSC-Performance.png)
